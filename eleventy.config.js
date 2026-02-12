@@ -1,6 +1,6 @@
-const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+import eleventyNavigationPlugin from "@11ty/eleventy-navigation";
 
-module.exports = function(eleventyConfig) {
+export default async function(eleventyConfig) {
   // Add navigation plugin
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
 
