@@ -28,7 +28,7 @@ identity that put people in control of their data.
 Get involved in shaping the future of digital credentials and decentralized
 identity. Our community is open to everyone interested in contributing to
 these important standards. For questions, contact our Chairs:
-<a href="mailto:harrison@spokeo.com,will@legreq.com,mahmoud@mavennet.com?subject=Question about W3C CCG">Harrison Tang, Will Abramson, and Mahmoud Alkraishi</a>.
+<a href="mailto:denkenie@gmail.com,will@legreq.com,mahmoud@mavennet.com?subject=Question about W3C CCG">Denken Chen, Will Abramson, and Mahmoud Alkraishi</a>.
     </p>
     <div class="feature-grid">
       <div class="feature-card">
