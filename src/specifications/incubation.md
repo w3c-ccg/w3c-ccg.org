@@ -2,14 +2,14 @@
 layout: base.njk
 basedir: ../..
 title: "Incubation Specifications"
-description: "Emerging specifications being developed by the W3C Credentials Community Group for future standardization."
+description: "Emerging specifications being developed by the Credentials Community Group for future standardization."
 ---
 
 <div class="hero">
   <div class="container">
     <h1>Incubation</h1>
     <p>
-Emerging specifications and technologies being developed by the W3C
+Emerging specifications and technologies being developed by the
 Credentials Community Group to extend and enhance verifiable credentials
 and decentralized identity capabilities.
     </p>
@@ -20,7 +20,7 @@ and decentralized identity capabilities.
   <div class="container">
     <h2 class="section-title">Community Group Incubation</h2>
     <p class="section-subtitle">
-The W3C Credentials Community Group serves as an incubator for new
+The Credentials Community Group serves as an incubator for new
 specifications and features that may eventually become W3C Recommendations.
 These specifications are actively being developed, tested, and refined
 based on community feedback and implementation experience.
