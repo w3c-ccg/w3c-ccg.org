@@ -2,14 +2,14 @@
 layout: base.njk
 basedir: .
 title: "Home"
-description: "The W3C Credentials Community Group incubates specifications for decentralized identity and digital credentials."
+description: "The Credentials Community Group incubates technologies for decentralized identity and digital credentials."
 ---
 
 <div class="hero">
   <div class="container">
-    <h1>The W3C Credentials Community Group</h1>
+    <h1>The Credentials Community Group</h1>
     <p>
-Incubating global standards for digital credentials and decentralized
+Incubating global technologies for digital credentials and decentralized
 identity that put people in control of their data.
     </p>
     <div class="cta-buttons">
@@ -27,7 +27,7 @@ identity that put people in control of their data.
     <p class="section-subtitle">
 Get involved in shaping the future of digital credentials and decentralized
 identity. Our community is open to everyone interested in contributing to
-these important standards. For questions, contact our Chairs:
+these important technologies. For questions, contact our Chairs:
 <a href="mailto:harrison@spokeo.com,will@legreq.com,mahmoud@mavennet.com?subject=Question about W3C CCG">Harrison Tang, Will Abramson, and Mahmoud Alkraishi</a>.
     </p>
     <div class="feature-grid">
@@ -79,8 +79,8 @@ implementation examples through our GitHub organization.
   <div class="container">
     <h2 class="section-title">Our Mission</h2>
     <p class="section-subtitle">
-The W3C Credentials Community Group is dedicated to creating open,
-interoperable standards for verifiable credentials and decentralized
+The Credentials Community Group is dedicated to creating open,
+interoperable technologies for verifiable credentials and decentralized
 identity. We work to establish a decentralized, privacy-preserving ecosystem
 where individuals and organizations can securely share and verify credentials
 without compromising personal data or relying on centralized authorities.
@@ -103,7 +103,7 @@ and organizations control over their private information.
       <div class="feature-card">
         <h3><i class="fas fa-puzzle-piece"></i>Interoperability</h3>
         <p>
-We develop standards that work across different platforms, vendors, and
+We develop technologies that work across different platforms, vendors, and
 ecosystems, ensuring credentials can be used anywhere they're needed.
         </p>
       </div>
