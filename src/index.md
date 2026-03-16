@@ -7,7 +7,7 @@ description: "The Credentials Community Group incubates technologies for decentr
 
 <div class="hero">
   <div class="container">
-    <h1>The Credentials Community Group</h1>
+    <h1>The W3C Credentials Community Group</h1>
     <p>
 Incubating global technologies for digital credentials and decentralized
 identity that put people in control of their data.
