@@ -9,8 +9,10 @@ description: "Official W3C Recommendations for Verifiable Credentials and Decent
   <div class="container">
     <h1>Global Standards</h1>
     <p>
-Official global standards that provide the foundation for secure,
-interoperable verifiable credentials and decentralized identity systems
+Technologies incubated in the W3C Credentials Community Group specifications 
+have then undergone standardization (in W3C Working Groups and other SDOs) 
+to provide the foundation for secure, 
+interoperable verifiable credentials and decentralized identity systems 
 used worldwide.
     </p>
   </div>
