@@ -9,7 +9,7 @@ description: "W3C standards and incubation specifications for verifiable credent
   <div class="container">
     <h1>Specifications</h1>
     <p>
-The W3C Credentials Community Group incubates specifications that eventually
+The W3C Credentials Community Group incubates specifications that may eventually
 progress to the standards track at W3C, IETF, or other global standards
 bodies to enable secure, interoperable
 verifiable credentials and decentralized identity systems worldwide.
